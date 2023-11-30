@@ -71,7 +71,29 @@
 
 [For more in depth information about the process modeling please click this link: IS 436 Group 7 - Deliverable 3 - Process Modeling](https://github.com/tnisbett1995/IS-436-Group-7-Project/blob/main/IS436%20Group%207%20-%20Process%20Modeling.docx)
 
+### Data Modeling and Designing
+* Online Payroll ERD
 
+    * Business Rules
+    * Main Features 
+    * ER Diagrams
+    * Tables
+    [Link to Database]( If possible link to database goes here )
+    * Cardinality and Relationship Description
+    * Normalization
+
+* Architecture Matrix
+* Cloud Computing Architecture Diagram
+* Hardware/Software Specifications
+* System Architecture Diagram
+    
+    * Diagram Explanation
+    * Server-Side
+    * Authentication
+    * Backend
+    * End-User Dfferentiation of Website
+    * Security and Data Management
+* Single Alternative Matrix
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
