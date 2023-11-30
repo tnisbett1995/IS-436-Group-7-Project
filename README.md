@@ -1,5 +1,5 @@
 <!-- Images -->
-![Markdown](file:///C:/Users/tnt_n/Downloads/Picture1.png)
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
 <!-- Headings -->
 # Heading 1
