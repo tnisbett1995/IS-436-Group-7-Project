@@ -39,6 +39,39 @@
 
 [For more detailed information about the requirements definition and use cases please click this link: IS 436 Group 7 - Deliverable 2 - Requirements Definition and Use Cases](https://github.com/tnisbett1995/IS-436-Group-7-Project/blob/main/IS436%20Group%207%20-%20Deliverable%202%20Requirements%20Definition%20Document%20and%20Use%20Cases.docx)
 
+---
+
+### Process Modeling for Gorilla Disttribution Center's Payroll System
+
+* Context Diagram and DFDs
+
+    * Context Diagrma - Payroll System
+    * Process 1 - Manage Employee Info
+    * Process 2 - Process Payroll
+    * Process 3 - Generate Payroll Report
+    * Process 4 - Manage Benefits and Deductions
+    * Process 5 - Handle Overtime Requests
+    * Process 6 - Comply with Legal Requirements
+
+* Data Flow Explanation and Definitions
+* Updated Use Cases
+    
+    * Use case 1: Manage Employment
+    * Use case 2: Process Payroll
+    * Use case 3: Generate Payroll Report
+    * Use case 4: Manage Benefits and Deductions
+    * Use case 5: Handle Overtime Requests
+* New Use Cases
+
+    * Use case 8: Authenticate User Login
+    * Use case 9: Register User Account
+    * Use case 10: Terminate Employee Record
+    * Use case 7: Update Student Account
+    * Use case 12: Check Personal Payroll Report
+
+[For more in depth information about the process modeling please click this link: IS 436 Group 7 - Deliverable 3 - Process Modeling](https://github.com/tnisbett1995/IS-436-Group-7-Project/blob/main/IS436%20Group%207%20-%20Process%20Modeling.docx)
+
+
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
