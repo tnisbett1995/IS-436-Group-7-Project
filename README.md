@@ -71,6 +71,8 @@
 
 [For more in depth information about the process modeling please click this link: IS 436 Group 7 - Deliverable 3 - Process Modeling](https://github.com/tnisbett1995/IS-436-Group-7-Project/blob/main/IS436%20Group%207%20-%20Process%20Modeling.docx)
 
+---
+
 ### Data Modeling and Designing
 * Online Payroll ERD
 
