@@ -10,7 +10,7 @@
 * Cost-Benefit Analysis (2023-2025)
 * Project Methodology: Agile (Scrum)
 
-[For more information about the system request please click this link: UPDATED IS 436 Group 7 - Deliverable 1 - System Request](https://github.com/tnisbett1995/IS-436-Group-7-Project/blob/main/UPDATED%20IS436%20Group%207%20-%20Deliverable%201%20System%20Request.docx)
+[For more information about the system request click this link: UPDATED IS 436 Group 7 - Deliverable 1 - System Request](https://github.com/tnisbett1995/IS-436-Group-7-Project/blob/main/UPDATED%20IS436%20Group%207%20-%20Deliverable%201%20System%20Request.docx)
 
 ---
 
@@ -37,7 +37,7 @@
     * Use Case 5: Employee Self-Service
     * Use Case 6: Overtime Approval
 
-[For more detailed information about the requirements definition and use cases please click this link: IS 436 Group 7 - Deliverable 2 - Requirements Definition and Use Cases](https://github.com/tnisbett1995/IS-436-Group-7-Project/blob/main/IS436%20Group%207%20-%20Deliverable%202%20Requirements%20Definition%20Document%20and%20Use%20Cases.docx)
+[For more detailed information about the requirements definition and use cases click this link: IS 436 Group 7 - Deliverable 2 - Requirements Definition and Use Cases](https://github.com/tnisbett1995/IS-436-Group-7-Project/blob/main/IS436%20Group%207%20-%20Deliverable%202%20Requirements%20Definition%20Document%20and%20Use%20Cases.docx)
 
 ---
 
@@ -69,7 +69,7 @@
     * Use case 7: Update Student Account
     * Use case 12: Check Personal Payroll Report
 
-[For more in depth information about the process modeling please click this link: IS 436 Group 7 - Deliverable 3 - Process Modeling](https://github.com/tnisbett1995/IS-436-Group-7-Project/blob/main/IS436%20Group%207%20-%20Process%20Modeling.docx)
+[For more in depth information about the process modeling click this link: IS 436 Group 7 - Deliverable 3 - Process Modeling](https://github.com/tnisbett1995/IS-436-Group-7-Project/blob/main/IS436%20Group%207%20-%20Process%20Modeling.docx)
 
 ---
 
@@ -96,6 +96,10 @@
     * End-User Dfferentiation of Website
     * Security and Data Management
 * Single Alternative Matrix
+
+[For more in more information about the Data Modeling and Design click this link: IS 436 Group 7 - D4 - Data Modeling and Starting Design](https://github.com/tnisbett1995/IS-436-Group-7-Project/blob/main/IS436%20-%20D4%20Data%20Modeling%20and%20Starting%20Design.docx)
+
+
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
