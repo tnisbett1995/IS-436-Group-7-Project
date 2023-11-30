@@ -10,7 +10,34 @@
 * Cost-Benefit Analysis (2023-2025)
 * Project Methodology: Agile (Scrum)
 
-[For more information please click this link UPDATED IS 436 Group 7 - Deliverable 1 - System Request](https://github.com/tnisbett1995/IS-436-Group-7-Project/blob/main/UPDATED%20IS436%20Group%207%20-%20Deliverable%201%20System%20Request.docx)
+[For more information about the system request please click this link: UPDATED IS 436 Group 7 - Deliverable 1 - System Request](https://github.com/tnisbett1995/IS-436-Group-7-Project/blob/main/UPDATED%20IS436%20Group%207%20-%20Deliverable%201%20System%20Request.docx)
+
+---
+
+### Requirements Definition and Use Cases for Gorilla Distribution Center's Payroll System
+* Funtional Requirements
+
+    * Process Oriented 
+    * Information Oriented
+
+* Nonfunctional Requirements
+
+    * Operational
+    * Performance
+    * Security
+    * Cultural/Political
+
+* Interview Processes
+* Use Cases
+    
+    * Use Case 1: Process Payroll
+    * Use Case 2: Add Employee
+    * Use Case 3: Generate Payroll Report
+    * Use Case 4: Deductions and Benefits Calculation
+    * Use Case 5: Employee Self-Service
+    * Use Case 6: Overtime Approval
+
+[For more detailed information about the requirements definition and use cases please click this link: IS 436 Group 7 - Deliverable 2 - Requirements Definition and Use Cases](https://github.com/tnisbett1995/IS-436-Group-7-Project/blob/main/IS436%20Group%207%20-%20Deliverable%202%20Requirements%20Definition%20Document%20and%20Use%20Cases.docx)
 
 #### Heading 4
 ##### Heading 5
