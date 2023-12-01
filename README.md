@@ -103,7 +103,9 @@
 ### User Inerface Design, Program design and System
 * User Interface Design
 
-[Link to access userface design(Prototype)](https://swe.umbc.edu/~nsubba1/test1/project/home.php)
+[Link to access userface design(Prototype 1)](https://swe.umbc.edu/~nsubba1/test1/project/home.php)
+
+[Link to access userface design(Prototype 2)](https://swe.umbc.edu/~nsubba1/prototypev2/PayrollSystem/dropdown.php)
 
 * Prototype Design
 
