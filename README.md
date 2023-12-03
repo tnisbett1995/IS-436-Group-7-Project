@@ -115,6 +115,58 @@
 
 [Link to access userface design(Final Design)]( https://swe.umbc.edu/~nsubba1/prototypev6/PayrollSystem/dropdown.php)
 
+---
+
+### User Guide for the Company Website
+
+#### Flow Charts of the Company Website 
+
+![Flowchart 1](https://cdn.discordapp.com/attachments/1157100616557019136/1180737315925151794/Screenshot_2023-12-03_at_12.07.41_AM.png?ex=657e8251&is=656c0d51&hm=6b60e2dc067d7d46f1749e6ffb2049f65484db58886ae7ab7d4f7cf6d08efc20&)
+
+![Flowchart 2](https://cdn.discordapp.com/attachments/1157100616557019136/1180737960132493394/Screenshot_2023-12-03_at_12.10.45_AM.png?ex=657e82ea&is=656c0dea&hm=a633c34ea43a478dff734abeb0b9a4c3d793f6ebe94965609841b68f26b2d908&)
+
+For Gorilla Disttribution Center's Payroll System, the website begins with a dropdown/loadng page where either the client or the admin can sign in. If either doesn't have an account it would allow for them to create an account and then allow them to sign in.
+
+### Client Side and
+
+#### Home Page
+This page gives clients individual access to their Income Overiew, Announcemnt within the company, Upcoming Payday and their Payment Account.
+
+[Link to access Home Page](https://swe.umbc.edu/~nsubba1/prototypev6/PayrollSystem/clienthome.php)
+
+#### Attendance
+This page allows clients to input their employee ID, the time they clock in and the time they clock out, the total hours worked, and if any overtime is applied.
+
+[Link to access Attendance Page](https://swe.umbc.edu/~nsubba1/prototypev6/PayrollSystem/client_attandance.php)
+
+#### Payroll
+The payroll page allows clients to see their period start date and end date, and allows clients to see their gross income and their net income. The page also allows clients to add new payroll accordingly.
+
+[Link to access Payroll Page](https://swe.umbc.edu/~nsubba1/prototypev6/PayrollSystem/client_payroll.php)
+
+#### Deduction and Benefits
+This page allows clients to access different deductions e.g. different taxes and the percentage that is applied to that dectuction. This page also allows clients to view their benefits and the description of said benefits.
+
+
+[Link to access Deduction and Benefits Page](https://swe.umbc.edu/~nsubba1/prototypev6/PayrollSystem/client_deductions.php)
+
+### Admin Side
+The admin would have all of the access the clients have but instead of individually, the admin would be able to view all of the clients and make changes for different clients(Attendace, Payroll, Deduction and Benefit List).
+
+[Link to admin attendance Page](https://swe.umbc.edu/~nsubba1/prototypev6/PayrollSystem/attentance.php)
+
+[Link to admin payroll Page](https://swe.umbc.edu/~nsubba1/prototypev6/PayrollSystem/payroll.php)
+
+[Link to admin deduction and benefit Page](https://swe.umbc.edu/~nsubba1/prototypev6/PayrollSystem/deductionb.php)
+
+
+In addition the admin would have exclusive access to the employee list and the different department.
+
+[Link to admin employee list Page](https://swe.umbc.edu/~nsubba1/prototypev6/PayrollSystem/employee.php)
+
+[Link to admin department list Page](https://swe.umbc.edu/~nsubba1/prototypev6/PayrollSystem/department.php)
+
+
 * Prototype Design
 
 [Link to access program code]()
