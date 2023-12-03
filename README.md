@@ -127,6 +127,8 @@
 
 For Gorilla Disttribution Center's Payroll System, the website begins with a dropdown/loadng page where either the client or the admin can sign in. If either doesn't have an account it would allow for them to create an account and then allow them to sign in.
 
+---
+
 ### Client Side 
 
 #### Home Page
