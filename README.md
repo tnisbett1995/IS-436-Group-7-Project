@@ -125,7 +125,7 @@
 
 ![Flowchart 2](https://cdn.discordapp.com/attachments/1157100616557019136/1180737960132493394/Screenshot_2023-12-03_at_12.10.45_AM.png?ex=657e82ea&is=656c0dea&hm=a633c34ea43a478dff734abeb0b9a4c3d793f6ebe94965609841b68f26b2d908&)
 
-For Gorilla Disttribution Center's Payroll System, the website begins with a dropdown/loadng page where either the client or the admin can sign in. If either doesn't have an account it would allow for them to create an account and then allow them to sign in.
+For Gorilla Disttribution Center's Payroll System, the website begins with a dropdown/loadng page where either the client or the admin can sign in. A client is not able to sign up if the admin didn't create a profile for you. It is only when the admin creates a profile and gives the client an employee ID, then the client is able to create an account.
 
 ---
 
