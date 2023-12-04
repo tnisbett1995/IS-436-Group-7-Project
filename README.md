@@ -138,7 +138,11 @@
 
 For Gorilla Disttribution Center's Payroll System, the website begins with a dropdown/loadng page where either the client or the admin can sign in. A client is not able to sign up if the admin didn't create a profile for you. It is only when the admin creates a profile and gives the client an employee ID, then the client is able to create an account.
 
-Sign Up
+### Client Side 
+
+
+#### Sign Up
+
 This is where users can sign up to create an account. However, before signing up, they must have access to an Employee ID provided by their HR Manager. When Admin-level access creates a profile for you, they will provide you with a UNIQUE Employee ID. Once you have an Employee ID, you can register your account. When signing up, you will have to provide your:
 1. Employee ID
 2. Username
@@ -152,15 +156,16 @@ This is where users can sign up to create an account. However, before signing up
 
 If you have already created an account with that username, email, or phone number, then it will not allow you to create a new account. You would have to talk to your HR Manager. Once you have successfully registered your account, you can sign in.
 
-Sign In
+[Link to sign up Page](https://swe.umbc.edu/~nsubba1/prototypev6/PayrollSystem/signup.php)
+
+#### Sign In
 Once your account has been created you can access your account by putting your Username and Password. When the Admin created your profile, they also gave you a Role that determines what type of access you have. If you have Role 1, then you will have client access. If your Role is 0, then it will be Admin access. The functionality and features available to you will depend on your role.
 
 Once you successfully log in, it will take you to your appropriate dashboard.
 
+[Link to sign in Page](https://swe.umbc.edu/~nsubba1/prototypev6/PayrollSystem/signin.php)
 
 ---
-
-### Client Side 
 
 #### Home Page
 This page gives clients individual access to their Income Overiew, Announcemnt within the company, Upcoming Payday and their Payment Account.
@@ -200,8 +205,7 @@ In addition the admin would have exclusive access to the employee list and the d
 [Link to admin department list Page](https://swe.umbc.edu/~nsubba1/prototypev6/PayrollSystem/department.php)
 
 ### Program Design
-* Prototype Design
-
+### Code Repository 
 [Link to access program code](https://github.com/DhulfiqarH/PayrollSystem)
 
 
