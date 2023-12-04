@@ -190,14 +190,13 @@ This page allows clients to access different deductions e.g. different taxes and
 
 ### Admin Side
 The admin would have all of the access the clients have but instead of individually, the admin would be able to view all of the clients and make changes for different clients(Attendace, Payroll, Deduction and Benefit List).
-
 [Link to admin attendance Page](https://swe.umbc.edu/~nsubba1/prototypev6/PayrollSystem/attentance.php)
 
 [Link to admin payroll Page](https://swe.umbc.edu/~nsubba1/prototypev6/PayrollSystem/payroll.php)
 
 [Link to admin deduction and benefit Page](https://swe.umbc.edu/~nsubba1/prototypev6/PayrollSystem/deductionb.php)
 
-
+#### Employee List and Department 
 In addition the admin would have exclusive access to the employee list and the different department.
 
 [Link to admin employee list Page](https://swe.umbc.edu/~nsubba1/prototypev6/PayrollSystem/employee.php)
