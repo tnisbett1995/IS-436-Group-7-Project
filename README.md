@@ -189,6 +189,7 @@ This page allows clients to access different deductions e.g. different taxes and
 [Link to access Deduction and Benefits Page](https://swe.umbc.edu/~nsubba1/prototypev6/PayrollSystem/client_deductions.php)
 
 ### Admin Side
+
 #### Attendance, Payroll, and Decuction and Benefits
 The admin would have all of the access the clients have but instead of individually, the admin would be able to view all of the clients and make changes for different clients(Attendace, Payroll, Deduction and Benefit List).
 [Link to admin attendance Page](https://swe.umbc.edu/~nsubba1/prototypev6/PayrollSystem/attentance.php)
@@ -198,7 +199,13 @@ The admin would have all of the access the clients have but instead of individua
 [Link to admin deduction and benefit Page](https://swe.umbc.edu/~nsubba1/prototypev6/PayrollSystem/deductionb.php)
 
 #### Employee List and Department 
-In addition the admin would have exclusive access to the employee list and the different department.
+
+Employee Page:
+This page lists all the employees currently working for the company. From here you can access each employee's information such as their address, phone, email, etc. You can also add new employees. When a new employee wants to join the company, you can create a profile for them by adding their name, position, department, and role. The role is very important because it determines what type of access you will have. 
+
+You can also edit or delete an employee. By clicking on the edit button, you will pop up a form where you can update an employee's information. If you click on the delete button, it will also open up a form where you can enter an employee ID, and the employee with that ID will be deleted from the system.
+
+It is very important to keep a record of all the employees who have worked for your company which is why when an employee is deleted, they will be automatically put into the former employee table. This is keeping a reference for the future if need be.
 
 [Link to admin employee list Page](https://swe.umbc.edu/~nsubba1/prototypev6/PayrollSystem/employee.php)
 
