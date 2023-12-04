@@ -1,5 +1,5 @@
 <!-- Images -->
-![Markdown Logo](https://markdown-here.com/img/icon256.png)
+![Markdown Logo](https://media.discordapp.net/attachments/1157100616557019136/1181081374841647184/avalance-innovation-high-resolution-logo-color-on-transparent-background.png?ex=657fc2bf&is=656d4dbf&hm=1cdf6fc8ea5cb328eaa613ce0ef1ac17c8f24d863e4b41f0422aec464e67bd59&=&format=webp&quality=lossless&width=1440&height=298)
 
 <!-- Headings -->
 # Avalance Innovation Team
