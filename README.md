@@ -124,7 +124,7 @@
 
 [Link to access userface design(Prototype 5)]( https://swe.umbc.edu/~nsubba1/prototypev5/PayrollSystem/dropdown.php)
 
-[Link to access userface design(Final Design)]( https://swe.umbc.edu/~nsubba1/prototypev6/PayrollSystem/dropdown.php)
+[Link to access userface design(Final Design)](https://swe.umbc.edu/~nsubba1/prototypev9/PayrollSystem/dropdown.php)
 
 ---
 
@@ -213,7 +213,7 @@ It is very important to keep a record of all the employees who have worked for y
 
 ### Program Design
 ### Code Repository 
-[Link to access program code](https://github.com/tnisbett1995/IS-436-Group-7-Project)
+[Link to access program code](https://github.com/DhulfiqarH/PayrollSystem)
 
 
 
