@@ -213,7 +213,7 @@ It is very important to keep a record of all the employees who have worked for y
 
 ### Program Design
 ### Code Repository 
-[Link to access program code](https://github.com/DhulfiqarH/PayrollSystem)
+[Link to access program code](https://github.com/tnisbett1995/IS-436-Group-7-Project)
 
 
 
